@@ -31,8 +31,8 @@
 - [基于SpringBoot的勤工助学项目](https://github.com/Zhi132/SSM-WSP)
 
 ### 关于我
-- [博客](https://www.ycisch.com/)
+- [博客](https://www.ycisch.com/?_blank)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [Yinchen](https://github.com/Zhi132)
+⭐️ From [Yinchen](https://github.com/Zhi132?_blank)
